@@ -1,5 +1,6 @@
 Date 1/16
 slides: 2-98
-Discussion: A conceptual design of a video conferencing system, what archtecture it use
+siz@mcmaster.ca
+Question: Discussion: A conceptual design of a video conferencing system, what architecture it use
 
-Use a peer to peer for small groups (e.g. 2 people) to get fast project delivery with minimal cost because no server is needed. For large groups, use a client server so the system can scale efficiently.
+Answer: Use a peer to peer for small groups (e.g. 2 people, send 1 for each) to get fast project delivery (as developer) with minimal cost because no server is needed. For large groups, use a client server so the system can scale efficiently (e.g. 5 people, send 1 to server instead 4 to each other like p2p).
